@@ -8,7 +8,7 @@ Opportunities:
   3.You can create files in current directory with indicated name.
   4.You can watch access rights for files in current directory.
   5.You can change access rights with basic Linux command 'chmod'.
-  Example: file name: test.txt, 
+  Example: file name: test.txt, new rights: ugo+rwx
   
 For correct app working you need to install some stuff, just call these commands in your terminal:
  1. sudo apt-get install python3-pip
